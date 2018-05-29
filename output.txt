@@ -1,0 +1,3019 @@
+"/Users/ojm/Documents/CLionProjects/CSC3221 Project 2/cmake-build-debug/CSC3221_Project_2"
+
+/*---------------------BEGIN GAME---------------------*/
+
+Round:	1
+	Colliding:
+		Square(x:154.789, y:103.217, size:3.58571)
+		Circle(x:188.184, y:85.9393, radius:38.1215)
+	Removing:
+		Circle(x:188.184, y:85.9393, radius:38.1215)
+	Colliding:
+		Square(x:154.789, y:103.217, size:3.58571)
+		Circle(x:134.428, y:86.1448, radius:36.6407)
+	Removing:
+		Circle(x:134.428, y:86.1448, radius:36.6407)
+	Colliding:
+		Square(x:154.789, y:103.217, size:3.58571)
+		Circle(x:136.476, y:93.1798, radius:38.0089)
+	Removing:
+		Circle(x:136.476, y:93.1798, radius:38.0089)
+	Colliding:
+		Square(x:154.789, y:103.217, size:3.58571)
+		Circle(x:149.215, y:104.095, radius:36.3895)
+	Removing:
+		Circle(x:149.215, y:104.095, radius:36.3895)
+	Colliding:
+		Square(x:154.789, y:103.217, size:3.58571)
+		Circle(x:175.966, y:127.083, radius:35.8519)
+	Removing:
+		Circle(x:175.966, y:127.083, radius:35.8519)
+	Colliding:
+		Square(x:154.789, y:103.217, size:3.58571)
+		Circle(x:148.474, y:120.804, radius:34.6128)
+	Removing:
+		Circle(x:148.474, y:120.804, radius:34.6128)
+	Colliding:
+		Square(x:154.789, y:103.217, size:3.58571)
+		Circle(x:133.777, y:102.459, radius:27.3407)
+	Removing:
+		Circle(x:133.777, y:102.459, radius:27.3407)
+	Colliding:
+		Square(x:154.789, y:103.217, size:3.58571)
+		Circle(x:185.127, y:125.908, radius:38.3723)
+	Removing:
+		Circle(x:185.127, y:125.908, radius:38.3723)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Circle(x:231.749, y:75.2063, radius:23.1848)
+	Removing:
+		Circle(x:231.749, y:75.2063, radius:23.1848)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Square(x:205.451, y:43.9976, size:25.3967)
+	Removing:
+		Square(x:205.451, y:43.9976, size:25.3967)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Circle(x:245.503, y:79.7527, radius:40.9981)
+	Removing:
+		Circle(x:245.503, y:79.7527, radius:40.9981)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Circle(x:222.955, y:47.0658, radius:16.7647)
+	Removing:
+		Circle(x:222.955, y:47.0658, radius:16.7647)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Square(x:166.725, y:40.8608, size:37.5504)
+	Removing:
+		Square(x:166.725, y:40.8608, size:37.5504)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Circle(x:210.717, y:120.501, radius:39.4792)
+	Removing:
+		Circle(x:210.717, y:120.501, radius:39.4792)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Square(x:195.797, y:35.3337, size:30.978)
+	Removing:
+		Square(x:195.797, y:35.3337, size:30.978)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Circle(x:210.865, y:54.6273, radius:37.7546)
+	Removing:
+		Circle(x:210.865, y:54.6273, radius:37.7546)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Circle(x:196.493, y:31.9123, radius:31.7839)
+	Removing:
+		Circle(x:196.493, y:31.9123, radius:31.7839)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Circle(x:203.676, y:68.8701, radius:11.3471)
+	Removing:
+		Circle(x:203.676, y:68.8701, radius:11.3471)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Square(x:199.265, y:14.227, size:37.09)
+	Removing:
+		Square(x:199.265, y:14.227, size:37.09)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Circle(x:233.008, y:111.267, radius:41.516)
+	Removing:
+		Circle(x:233.008, y:111.267, radius:41.516)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Circle(x:223.481, y:65.5307, radius:36.433)
+	Removing:
+		Circle(x:223.481, y:65.5307, radius:36.433)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Square(x:183.353, y:46.2724, size:13.4564)
+	Removing:
+		Square(x:183.353, y:46.2724, size:13.4564)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Square(x:204.679, y:54.3892, size:26.5055)
+	Removing:
+		Square(x:204.679, y:54.3892, size:26.5055)
+	Colliding:
+		Circle(x:199.258, y:62.2257, radius:20.027)
+		Circle(x:197.16, y:69.7032, radius:31.0806)
+	Removing:
+		Circle(x:197.16, y:69.7032, radius:31.0806)
+	Colliding:
+		Square(x:278.407, y:137.555, size:18.0141)
+		Circle(x:244.033, y:123.174, radius:39.6116)
+	Removing:
+		Circle(x:244.033, y:123.174, radius:39.6116)
+	Colliding:
+		Square(x:278.407, y:137.555, size:18.0141)
+		Circle(x:256.054, y:129.114, radius:25.172)
+	Removing:
+		Circle(x:256.054, y:129.114, radius:25.172)
+	Colliding:
+		Square(x:278.407, y:137.555, size:18.0141)
+		Circle(x:297.89, y:141.236, radius:25.5364)
+	Removing:
+		Circle(x:297.89, y:141.236, radius:25.5364)
+	Colliding:
+		Square(x:278.407, y:137.555, size:18.0141)
+		Square(x:283.214, y:133.053, size:25.1579)
+	Removing:
+		Square(x:283.214, y:133.053, size:25.1579)
+	Colliding:
+		Square(x:278.407, y:137.555, size:18.0141)
+		Circle(x:242.257, y:133.83, radius:36.9645)
+	Removing:
+		Circle(x:242.257, y:133.83, radius:36.9645)
+	Colliding:
+		Square(x:278.407, y:137.555, size:18.0141)
+		Circle(x:271.367, y:146.328, radius:27.9389)
+	Removing:
+		Circle(x:271.367, y:146.328, radius:27.9389)
+	Colliding:
+		Square(x:278.407, y:137.555, size:18.0141)
+		Square(x:277.509, y:125.226, size:30.1055)
+	Removing:
+		Square(x:277.509, y:125.226, size:30.1055)
+	Colliding:
+		Square(x:278.407, y:137.555, size:18.0141)
+		Circle(x:330.564, y:162.717, radius:38.4374)
+	Removing:
+		Circle(x:330.564, y:162.717, radius:38.4374)
+	Colliding:
+		Square(x:278.407, y:137.555, size:18.0141)
+		Circle(x:274.507, y:102.875, radius:37.6672)
+	Removing:
+		Circle(x:274.507, y:102.875, radius:37.6672)
+	Colliding:
+		Square(x:278.407, y:137.555, size:18.0141)
+		Circle(x:293.441, y:159.25, radius:9.51796)
+	Removing:
+		Circle(x:293.441, y:159.25, radius:9.51796)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:326.202, y:36.4276, radius:28.8053)
+	Removing:
+		Circle(x:326.202, y:36.4276, radius:28.8053)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:319.802, y:82.9938, radius:39.9496)
+	Removing:
+		Circle(x:319.802, y:82.9938, radius:39.9496)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:318.256, y:61.933, size:12.1927)
+	Removing:
+		Square(x:318.256, y:61.933, size:12.1927)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:369.925, y:79.9737, radius:0.852589)
+	Removing:
+		Circle(x:369.925, y:79.9737, radius:0.852589)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:314.65, y:79.4609, radius:34.6654)
+	Removing:
+		Circle(x:314.65, y:79.4609, radius:34.6654)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:343.807, y:84.959, radius:39.8025)
+	Removing:
+		Circle(x:343.807, y:84.959, radius:39.8025)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:380.504, y:117.673, radius:38.8957)
+	Removing:
+		Circle(x:380.504, y:117.673, radius:38.8957)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:340.571, y:69.6552, size:11.9545)
+	Removing:
+		Square(x:340.571, y:69.6552, size:11.9545)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:380.392, y:71.8476, radius:39.0812)
+	Removing:
+		Circle(x:380.392, y:71.8476, radius:39.0812)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:382.152, y:17.6337, size:20.8778)
+	Removing:
+		Square(x:382.152, y:17.6337, size:20.8778)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:277.867, y:18.0419, size:39.4188)
+	Removing:
+		Square(x:277.867, y:18.0419, size:39.4188)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:318.802, y:82.5745, radius:10.8954)
+	Removing:
+		Circle(x:318.802, y:82.5745, radius:10.8954)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:333.875, y:21.8049, size:39.5302)
+	Removing:
+		Square(x:333.875, y:21.8049, size:39.5302)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:357.589, y:42.2118, size:24.9067)
+	Removing:
+		Square(x:357.589, y:42.2118, size:24.9067)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:283.022, y:29.9843, size:41.4342)
+	Removing:
+		Square(x:283.022, y:29.9843, size:41.4342)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:340.237, y:72.9349, size:37.1855)
+	Removing:
+		Square(x:340.237, y:72.9349, size:37.1855)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:372.097, y:70.6308, radius:24.7144)
+	Removing:
+		Circle(x:372.097, y:70.6308, radius:24.7144)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:341.53, y:45.669, size:32.4699)
+	Removing:
+		Square(x:341.53, y:45.669, size:32.4699)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:336.178, y:76.4085, radius:15.0348)
+	Removing:
+		Circle(x:336.178, y:76.4085, radius:15.0348)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:355.799, y:34.6176, size:9.81773)
+	Removing:
+		Square(x:355.799, y:34.6176, size:9.81773)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:347.112, y:14.2281, size:7.7444)
+	Removing:
+		Square(x:347.112, y:14.2281, size:7.7444)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:304.055, y:43.019, radius:19.774)
+	Removing:
+		Circle(x:304.055, y:43.019, radius:19.774)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:280.781, y:49.2813, size:40.0101)
+	Removing:
+		Square(x:280.781, y:49.2813, size:40.0101)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:317.123, y:45.3026, radius:31.6329)
+	Removing:
+		Circle(x:317.123, y:45.3026, radius:31.6329)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:351.342, y:34.2536, radius:11.0512)
+	Removing:
+		Circle(x:351.342, y:34.2536, radius:11.0512)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:347.414, y:3.28693, size:23.9244)
+	Removing:
+		Square(x:347.414, y:3.28693, size:23.9244)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:368.171, y:94.4383, radius:25.9381)
+	Removing:
+		Circle(x:368.171, y:94.4383, radius:25.9381)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:379.767, y:68.463, radius:38.4914)
+	Removing:
+		Circle(x:379.767, y:68.463, radius:38.4914)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:375.256, y:41.8631, radius:17.038)
+	Removing:
+		Circle(x:375.256, y:41.8631, radius:17.038)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Square(x:346.519, y:84.6862, size:34.6831)
+	Removing:
+		Square(x:346.519, y:84.6862, size:34.6831)
+	Colliding:
+		Circle(x:348.274, y:48.9859, radius:41.6465)
+		Circle(x:324.694, y:116.04, radius:33.0091)
+	Removing:
+		Circle(x:324.694, y:116.04, radius:33.0091)
+	Colliding:
+		Square(x:213.668, y:2.39953, size:36.245)
+		Circle(x:269.219, y:32.1617, radius:19.6698)
+	Removing:
+		Circle(x:269.219, y:32.1617, radius:19.6698)
+	Colliding:
+		Square(x:213.668, y:2.39953, size:36.245)
+		Square(x:244.717, y:4.04878, size:29.0429)
+	Removing:
+		Square(x:244.717, y:4.04878, size:29.0429)
+	Colliding:
+		Square(x:213.668, y:2.39953, size:36.245)
+		Circle(x:248.5, y:20.3776, radius:18.6758)
+	Removing:
+		Circle(x:248.5, y:20.3776, radius:18.6758)
+	Colliding:
+		Square(x:213.668, y:2.39953, size:36.245)
+		Circle(x:238.489, y:25.4316, radius:0.676427)
+	Removing:
+		Circle(x:238.489, y:25.4316, radius:0.676427)
+	Colliding:
+		Square(x:213.668, y:2.39953, size:36.245)
+		Circle(x:226.189, y:27.1802, radius:20.8487)
+	Removing:
+		Circle(x:226.189, y:27.1802, radius:20.8487)
+	Colliding:
+		Square(x:230.701, y:88.2064, size:21.0419)
+		Square(x:236.836, y:87.0299, size:40.9035)
+	Removing:
+		Square(x:236.836, y:87.0299, size:40.9035)
+	Colliding:
+		Square(x:230.701, y:88.2064, size:21.0419)
+		Square(x:218.742, y:96.7222, size:29.7207)
+	Removing:
+		Square(x:218.742, y:96.7222, size:29.7207)
+	Colliding:
+		Square(x:230.701, y:88.2064, size:21.0419)
+		Square(x:223.148, y:101.993, size:41.4932)
+	Removing:
+		Square(x:223.148, y:101.993, size:41.4932)
+	Colliding:
+		Square(x:230.701, y:88.2064, size:21.0419)
+		Circle(x:219.152, y:123.891, radius:23.0813)
+	Removing:
+		Circle(x:219.152, y:123.891, radius:23.0813)
+	Colliding:
+		Square(x:116.626, y:15.9906, size:19.3608)
+		Circle(x:153.965, y:49.5676, radius:22.9935)
+	Removing:
+		Circle(x:153.965, y:49.5676, radius:22.9935)
+	Colliding:
+		Square(x:116.626, y:15.9906, size:19.3608)
+		Square(x:115.777, y:25.7341, size:23.1628)
+	Removing:
+		Square(x:115.777, y:25.7341, size:23.1628)
+	Colliding:
+		Square(x:116.626, y:15.9906, size:19.3608)
+		Circle(x:128.399, y:59.1651, radius:34.6189)
+	Removing:
+		Circle(x:128.399, y:59.1651, radius:34.6189)
+	Colliding:
+		Square(x:116.626, y:15.9906, size:19.3608)
+		Square(x:111.512, y:19.4411, size:16.1514)
+	Removing:
+		Square(x:111.512, y:19.4411, size:16.1514)
+	Colliding:
+		Square(x:116.626, y:15.9906, size:19.3608)
+		Square(x:130.886, y:31.6843, size:15.4258)
+	Removing:
+		Square(x:130.886, y:31.6843, size:15.4258)
+	Colliding:
+		Square(x:116.626, y:15.9906, size:19.3608)
+		Square(x:101.51, y:10.9641, size:32.3635)
+	Removing:
+		Square(x:101.51, y:10.9641, size:32.3635)
+	Colliding:
+		Circle(x:401.719, y:165.013, radius:8.97121)
+		Square(x:375.478, y:126.941, size:38.0535)
+	Removing:
+		Square(x:375.478, y:126.941, size:38.0535)
+	Colliding:
+		Square(x:30.4362, y:189.906, size:8.52647)
+		Square(x:27.1718, y:170.497, size:29.1546)
+	Removing:
+		Square(x:27.1718, y:170.497, size:29.1546)
+	Colliding:
+		Square(x:30.4362, y:189.906, size:8.52647)
+		Circle(x:41.7553, y:188.546, radius:3.84047)
+	Removing:
+		Circle(x:41.7553, y:188.546, radius:3.84047)
+	Colliding:
+		Square(x:311.889, y:107.999, size:32.0491)
+		Circle(x:351.715, y:145.743, radius:39.0459)
+	Removing:
+		Circle(x:351.715, y:145.743, radius:39.0459)
+	Colliding:
+		Square(x:311.889, y:107.999, size:32.0491)
+		Circle(x:330.855, y:147.556, radius:16.0123)
+	Removing:
+		Circle(x:330.855, y:147.556, radius:16.0123)
+	Colliding:
+		Square(x:311.889, y:107.999, size:32.0491)
+		Circle(x:361.802, y:157.033, radius:28.9201)
+	Removing:
+		Circle(x:361.802, y:157.033, radius:28.9201)
+	Colliding:
+		Square(x:311.889, y:107.999, size:32.0491)
+		Square(x:336.031, y:114.08, size:4.46254)
+	Removing:
+		Square(x:336.031, y:114.08, size:4.46254)
+	Colliding:
+		Square(x:311.889, y:107.999, size:32.0491)
+		Circle(x:341.152, y:133.059, radius:30.0341)
+	Removing:
+		Circle(x:341.152, y:133.059, radius:30.0341)
+	Colliding:
+		Square(x:311.889, y:107.999, size:32.0491)
+		Square(x:330.383, y:131.523, size:25.7782)
+	Removing:
+		Square(x:330.383, y:131.523, size:25.7782)
+	Colliding:
+		Square(x:311.889, y:107.999, size:32.0491)
+		Circle(x:346.729, y:111.204, radius:8.33825)
+	Removing:
+		Circle(x:346.729, y:111.204, radius:8.33825)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Square(x:80.0626, y:117.691, size:2.5423)
+	Removing:
+		Square(x:80.0626, y:117.691, size:2.5423)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:129.543, y:165.62, radius:40.8425)
+	Removing:
+		Circle(x:129.543, y:165.62, radius:40.8425)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Square(x:81.9493, y:115, size:27.4125)
+	Removing:
+		Square(x:81.9493, y:115, size:27.4125)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:133.963, y:113.783, radius:0.738774)
+	Removing:
+		Circle(x:133.963, y:113.783, radius:0.738774)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:51.9892, y:90.004, radius:35.6013)
+	Removing:
+		Circle(x:51.9892, y:90.004, radius:35.6013)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:144.819, y:155.997, radius:34.0396)
+	Removing:
+		Circle(x:144.819, y:155.997, radius:34.0396)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:86.1885, y:111.745, radius:24.3033)
+	Removing:
+		Circle(x:86.1885, y:111.745, radius:24.3033)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Square(x:43.8256, y:65.3156, size:39.918)
+	Removing:
+		Square(x:43.8256, y:65.3156, size:39.918)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:78.1658, y:109.813, radius:25.9741)
+	Removing:
+		Circle(x:78.1658, y:109.813, radius:25.9741)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:63.2728, y:48.087, radius:38.0072)
+	Removing:
+		Circle(x:63.2728, y:48.087, radius:38.0072)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:73.677, y:160.197, radius:37.6198)
+	Removing:
+		Circle(x:73.677, y:160.197, radius:37.6198)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Square(x:89.8957, y:114.432, size:38.0982)
+	Removing:
+		Square(x:89.8957, y:114.432, size:38.0982)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Square(x:109.467, y:126.377, size:20.7579)
+	Removing:
+		Square(x:109.467, y:126.377, size:20.7579)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:108.231, y:59.8957, radius:12.6483)
+	Removing:
+		Circle(x:108.231, y:59.8957, radius:12.6483)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:108.189, y:89.1702, radius:14.9205)
+	Removing:
+		Circle(x:108.189, y:89.1702, radius:14.9205)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:68.6765, y:130.594, radius:36.0455)
+	Removing:
+		Circle(x:68.6765, y:130.594, radius:36.0455)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Square(x:82.2141, y:41.9158, size:27.6887)
+	Removing:
+		Square(x:82.2141, y:41.9158, size:27.6887)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:106.898, y:123.447, radius:19.5525)
+	Removing:
+		Circle(x:106.898, y:123.447, radius:19.5525)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:98.8806, y:73.0265, radius:2.55257)
+	Removing:
+		Circle(x:98.8806, y:73.0265, radius:2.55257)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:100.793, y:122.015, radius:12.3972)
+	Removing:
+		Circle(x:100.793, y:122.015, radius:12.3972)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:94.9647, y:117.544, radius:36.5723)
+	Removing:
+		Circle(x:94.9647, y:117.544, radius:36.5723)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:135.526, y:99.2164, radius:16.4459)
+	Removing:
+		Circle(x:135.526, y:99.2164, radius:16.4459)
+	Colliding:
+		Circle(x:101.947, y:103.556, radius:36.4451)
+		Circle(x:87.272, y:77.8409, radius:19.8291)
+	Removing:
+		Circle(x:87.272, y:77.8409, radius:19.8291)
+	Colliding:
+		Square(x:0.298459, y:98.6469, size:8.74841)
+		Square(x:5.49391, y:90.9769, size:8.72707)
+	Removing:
+		Square(x:5.49391, y:90.9769, size:8.72707)
+	Colliding:
+		Square(x:197.02, y:147.753, size:4.343)
+		Square(x:186.828, y:133.193, size:38.6823)
+	Removing:
+		Square(x:186.828, y:133.193, size:38.6823)
+	Colliding:
+		Square(x:275.253, y:171.133, size:38.3183)
+		Circle(x:340.942, y:169.6, radius:28.9051)
+	Removing:
+		Circle(x:340.942, y:169.6, radius:28.9051)
+	Colliding:
+		Square(x:275.253, y:171.133, size:38.3183)
+		Square(x:308.089, y:163.448, size:31.2599)
+	Removing:
+		Square(x:308.089, y:163.448, size:31.2599)
+	Colliding:
+		Square(x:49.5511, y:65.9095, size:8.53431)
+		Square(x:16.7226, y:48.7131, size:35.7288)
+	Removing:
+		Square(x:16.7226, y:48.7131, size:35.7288)
+	Colliding:
+		Square(x:49.5511, y:65.9095, size:8.53431)
+		Circle(x:36.659, y:70.6801, radius:24.7905)
+	Removing:
+		Circle(x:36.659, y:70.6801, radius:24.7905)
+	Colliding:
+		Circle(x:89.096, y:175.363, radius:24.7167)
+		Circle(x:129.494, y:173.088, radius:30.5901)
+	Removing:
+		Circle(x:129.494, y:173.088, radius:30.5901)
+	Colliding:
+		Circle(x:89.096, y:175.363, radius:24.7167)
+		Square(x:85.3529, y:156.915, size:34.7208)
+	Removing:
+		Square(x:85.3529, y:156.915, size:34.7208)
+	Colliding:
+		Circle(x:89.096, y:175.363, radius:24.7167)
+		Circle(x:67.1694, y:160.147, radius:28.1188)
+	Removing:
+		Circle(x:67.1694, y:160.147, radius:28.1188)
+	Colliding:
+		Circle(x:89.096, y:175.363, radius:24.7167)
+		Square(x:90.2411, y:159.65, size:1.22033)
+	Removing:
+		Square(x:90.2411, y:159.65, size:1.22033)
+	Colliding:
+		Circle(x:89.096, y:175.363, radius:24.7167)
+		Square(x:97.4546, y:193.638, size:1.71011)
+	Removing:
+		Square(x:97.4546, y:193.638, size:1.71011)
+	Colliding:
+		Circle(x:89.096, y:175.363, radius:24.7167)
+		Square(x:97.6261, y:178.45, size:2.92359)
+	Removing:
+		Square(x:97.6261, y:178.45, size:2.92359)
+	Colliding:
+		Circle(x:89.096, y:175.363, radius:24.7167)
+		Square(x:105.03, y:188.134, size:8.5392)
+	Removing:
+		Square(x:105.03, y:188.134, size:8.5392)
+	Colliding:
+		Square(x:367.134, y:131.905, size:23.5624)
+		Square(x:388.413, y:111.23, size:23.1771)
+	Removing:
+		Square(x:388.413, y:111.23, size:23.1771)
+	Colliding:
+		Square(x:367.134, y:131.905, size:23.5624)
+		Circle(x:378.094, y:120.649, radius:29.5392)
+	Removing:
+		Circle(x:378.094, y:120.649, radius:29.5392)
+	Colliding:
+		Square(x:178.692, y:138.546, size:13.094)
+		Square(x:161.724, y:130.595, size:17.5992)
+	Removing:
+		Square(x:161.724, y:130.595, size:17.5992)
+	Colliding:
+		Square(x:178.692, y:138.546, size:13.094)
+		Square(x:165.335, y:126.134, size:28.7575)
+	Removing:
+		Square(x:165.335, y:126.134, size:28.7575)
+	Colliding:
+		Square(x:53.1652, y:29.3869, size:29.8205)
+		Circle(x:75.3569, y:29.2416, radius:16.9188)
+	Removing:
+		Circle(x:75.3569, y:29.2416, radius:16.9188)
+	Colliding:
+		Square(x:323.003, y:167.044, size:3.20864)
+		Square(x:319.352, y:166.837, size:15.8061)
+	Removing:
+		Square(x:319.352, y:166.837, size:15.8061)
+	Colliding:
+		Square(x:11.4166, y:153.959, size:6.96863)
+		Square(x:13.551, y:160.58, size:2.49203)
+	Removing:
+		Square(x:13.551, y:160.58, size:2.49203)
+	Colliding:
+		Square(x:11.4166, y:153.959, size:6.96863)
+		Square(x:7.08321, y:154.102, size:30.7668)
+	Removing:
+		Square(x:7.08321, y:154.102, size:30.7668)
+	Colliding:
+		Square(x:11.4166, y:153.959, size:6.96863)
+		Circle(x:29.3106, y:166.259, radius:20.7411)
+	Removing:
+		Circle(x:29.3106, y:166.259, radius:20.7411)
+	Colliding:
+		Circle(x:152.717, y:194.124, radius:13.8011)
+		Circle(x:148.708, y:176.091, radius:10.6435)
+	Removing:
+		Circle(x:148.708, y:176.091, radius:10.6435)
+	Colliding:
+		Circle(x:152.717, y:194.124, radius:13.8011)
+		Circle(x:179.89, y:190.684, radius:13.8901)
+	Removing:
+		Circle(x:179.89, y:190.684, radius:13.8901)
+	Colliding:
+		Square(x:37.2197, y:155.695, size:26.6807)
+		Circle(x:35.0789, y:150.086, radius:10.3937)
+	Removing:
+		Circle(x:35.0789, y:150.086, radius:10.3937)
+	Colliding:
+		Circle(x:282.134, y:23.4501, radius:18.0162)
+		Circle(x:280.495, y:49.0666, radius:25.4652)
+	Removing:
+		Circle(x:280.495, y:49.0666, radius:25.4652)
+	Colliding:
+		Circle(x:282.134, y:23.4501, radius:18.0162)
+		Square(x:258.294, y:28.6104, size:28.0898)
+	Removing:
+		Square(x:258.294, y:28.6104, size:28.0898)
+	Colliding:
+		Circle(x:282.134, y:23.4501, radius:18.0162)
+		Square(x:250.08, y:13.2441, size:37.7652)
+	Removing:
+		Square(x:250.08, y:13.2441, size:37.7652)
+	Colliding:
+		Circle(x:282.134, y:23.4501, radius:18.0162)
+		Square(x:268.909, y:22.7573, size:33.8336)
+	Removing:
+		Square(x:268.909, y:22.7573, size:33.8336)
+	Colliding:
+		Square(x:15.3919, y:103.445, size:17.0138)
+		Square(x:10.2079, y:95.1674, size:13.163)
+	Removing:
+		Square(x:10.2079, y:95.1674, size:13.163)
+	Colliding:
+		Square(x:15.3919, y:103.445, size:17.0138)
+		Square(x:12.1593, y:79.5498, size:38.8867)
+	Removing:
+		Square(x:12.1593, y:79.5498, size:38.8867)
+	Colliding:
+		Square(x:243.897, y:136.424, size:3.54639)
+		Square(x:231.187, y:110.595, size:34.6455)
+	Removing:
+		Square(x:231.187, y:110.595, size:34.6455)
+	Colliding:
+		Circle(x:182.923, y:116.076, radius:16.2411)
+		Square(x:183.47, y:108.626, size:26.7466)
+	Removing:
+		Square(x:183.47, y:108.626, size:26.7466)
+	Colliding:
+		Square(x:184.693, y:159.528, size:24.2595)
+		Circle(x:188.684, y:187.098, radius:13.6126)
+	Removing:
+		Circle(x:188.684, y:187.098, radius:13.6126)
+	Colliding:
+		Square(x:31.2173, y:42.9925, size:21.5304)
+		Square(x:30.3757, y:21.0788, size:22.1999)
+	Removing:
+		Square(x:30.3757, y:21.0788, size:22.1999)
+
+	Shapes remaining:	62
+
+Round:	2
+	Colliding:
+		Square(x:155.149, y:85.8472, size:3.58571)
+		Circle(x:165.033, y:85.0807, radius:9.09855)
+	Removing:
+		Circle(x:165.033, y:85.0807, radius:9.09855)
+	Colliding:
+		Circle(x:195.234, y:81.3197, radius:20.027)
+		Square(x:189.109, y:82.5906, size:6.69344)
+	Removing:
+		Square(x:189.109, y:82.5906, size:6.69344)
+	Colliding:
+		Square(x:265.673, y:146.123, size:18.0141)
+		Square(x:276.228, y:161.946, size:38.3183)
+	Removing:
+		Square(x:276.228, y:161.946, size:38.3183)
+	Colliding:
+		Circle(x:334.397, y:68.7521, radius:41.6465)
+		Square(x:325.713, y:87.2488, size:32.0491)
+	Removing:
+		Square(x:325.713, y:87.2488, size:32.0491)
+	Colliding:
+		Circle(x:334.397, y:68.7521, radius:41.6465)
+		Square(x:364.627, y:83.8325, size:7.49957)
+	Removing:
+		Square(x:364.627, y:83.8325, size:7.49957)
+	Colliding:
+		Circle(x:334.397, y:68.7521, radius:41.6465)
+		Square(x:297.63, y:83.28, size:0.992225)
+	Removing:
+		Square(x:297.63, y:83.28, size:0.992225)
+	Colliding:
+		Circle(x:334.397, y:68.7521, radius:41.6465)
+		Circle(x:285.023, y:37.771, radius:18.0162)
+	Removing:
+		Circle(x:285.023, y:37.771, radius:18.0162)
+	Colliding:
+		Circle(x:115.083, y:85.6354, radius:36.4451)
+		Square(x:65.3862, y:41.6423, size:29.8205)
+	Removing:
+		Square(x:65.3862, y:41.6423, size:29.8205)
+	Colliding:
+		Square(x:183.427, y:166.806, size:4.343)
+		Square(x:169.1, y:144.666, size:24.2595)
+	Removing:
+		Square(x:169.1, y:144.666, size:24.2595)
+	Colliding:
+		Circle(x:373.682, y:195.468, radius:12.9169)
+		Square(x:382.104, y:203.322, size:3.45557)
+	Removing:
+		Square(x:382.104, y:203.322, size:3.45557)
+	Colliding:
+		Square(x:109.379, y:180.081, size:0.372147)
+		Circle(x:109.598, y:182.786, radius:24.7167)
+	Removing:
+		Circle(x:109.598, y:182.786, radius:24.7167)
+	Colliding:
+		Square(x:351.536, y:150.654, size:23.5624)
+		Circle(x:352.288, y:150.702, radius:0.930296)
+	Removing:
+		Circle(x:352.288, y:150.702, radius:0.930296)
+	Colliding:
+		Square(x:175.697, y:126.539, size:13.094)
+		Circle(x:181.78, y:119.35, radius:16.2411)
+	Removing:
+		Circle(x:181.78, y:119.35, radius:16.2411)
+	Colliding:
+		Square(x:222.735, y:153.719, size:8.02817)
+		Square(x:225.919, y:151.356, size:8.5123)
+	Removing:
+		Square(x:225.919, y:151.356, size:8.5123)
+	Colliding:
+		Circle(x:51.1337, y:132.489, radius:6.43947)
+		Square(x:48.4414, y:123.232, size:16.1987)
+	Removing:
+		Square(x:48.4414, y:123.232, size:16.1987)
+
+	Shapes remaining:	47
+
+Round:	3
+	Colliding:
+		Square(x:160.913, y:103.995, size:3.58571)
+		Circle(x:135.351, y:78.3097, radius:36.4451)
+	Removing:
+		Circle(x:135.351, y:78.3097, radius:36.4451)
+	Colliding:
+		Circle(x:321.655, y:72.7444, radius:41.6465)
+		Circle(x:282.746, y:90.8571, radius:3.2442)
+	Removing:
+		Circle(x:282.746, y:90.8571, radius:3.2442)
+	Colliding:
+		Square(x:9.05328, y:195.778, size:8.52647)
+		Square(x:9.4492, y:179.752, size:26.6807)
+	Removing:
+		Square(x:9.4492, y:179.752, size:26.6807)
+	Colliding:
+		Square(x:164.942, y:19.5765, size:0.29887)
+		Circle(x:170.125, y:23.5041, radius:7.66353)
+	Removing:
+		Circle(x:170.125, y:23.5041, radius:7.66353)
+
+	Shapes remaining:	43
+
+Round:	4
+	Colliding:
+		Circle(x:330.797, y:78.399, radius:41.6465)
+		Square(x:314.183, y:112.57, size:12.2691)
+	Removing:
+		Square(x:314.183, y:112.57, size:12.2691)
+	Colliding:
+		Circle(x:330.797, y:78.399, radius:41.6465)
+		Circle(x:342.075, y:119.699, radius:3.2803)
+	Removing:
+		Circle(x:342.075, y:119.699, radius:3.2803)
+	Colliding:
+		Square(x:215.028, y:112.714, size:21.0419)
+		Square(x:214.01, y:126.627, size:13.094)
+	Removing:
+		Square(x:214.01, y:126.627, size:13.094)
+	Colliding:
+		Square(x:126.888, y:168.016, size:0.372147)
+		Circle(x:134.235, y:175.662, radius:13.8011)
+	Removing:
+		Circle(x:134.235, y:175.662, radius:13.8011)
+
+	Shapes remaining:	39
+
+Round:	5
+	Colliding:
+		Square(x:265.469, y:157.616, size:18.0141)
+		Square(x:281.92, y:169.684, size:4.32741)
+	Removing:
+		Square(x:281.92, y:169.684, size:4.32741)
+	Colliding:
+		Circle(x:331.789, y:91.649, radius:41.6465)
+		Square(x:337.903, y:129.56, size:23.5624)
+	Removing:
+		Square(x:337.903, y:129.56, size:23.5624)
+	Colliding:
+		Circle(x:331.789, y:91.649, radius:41.6465)
+		Square(x:325.176, y:126.141, size:5.96568)
+	Removing:
+		Square(x:325.176, y:126.141, size:5.96568)
+	Colliding:
+		Circle(x:369.876, y:170.333, radius:8.97121)
+		Circle(x:364.561, y:184.738, radius:12.9169)
+	Removing:
+		Circle(x:364.561, y:184.738, radius:12.9169)
+	Colliding:
+		Square(x:324.797, y:156.707, size:3.20864)
+		Square(x:322.5, y:152.057, size:16.717)
+	Removing:
+		Square(x:322.5, y:152.057, size:16.717)
+
+	Shapes remaining:	34
+
+Round:	6
+	Colliding:
+		Square(x:233.89, y:77.4287, size:21.0419)
+		Circle(x:256.503, y:95.9505, radius:2.01056)
+	Removing:
+		Circle(x:256.503, y:95.9505, radius:2.01056)
+	Colliding:
+		Square(x:5.52016, y:177.927, size:8.52647)
+		Square(x:9.65898, y:182.278, size:4.4451)
+	Removing:
+		Square(x:9.65898, y:182.278, size:4.4451)
+	Colliding:
+		Square(x:40.6325, y:129.714, size:6.96863)
+		Square(x:40.3266, y:134.578, size:17.0138)
+	Removing:
+		Square(x:40.3266, y:134.578, size:17.0138)
+	Colliding:
+		Square(x:43.4186, y:36.2316, size:10.8032)
+		Square(x:48.1632, y:25.9581, size:21.5304)
+	Removing:
+		Square(x:48.1632, y:25.9581, size:21.5304)
+
+	Shapes remaining:	30
+
+Round:	7
+	Colliding:
+		Circle(x:183.97, y:39.2202, radius:20.027)
+		Square(x:187.635, y:36.3947, size:0.29887)
+	Removing:
+		Square(x:187.635, y:36.3947, size:0.29887)
+	Colliding:
+		Square(x:285.18, y:147.17, size:18.0141)
+		Circle(x:322.528, y:121.585, radius:41.6465)
+	Removing:
+		Circle(x:322.528, y:121.585, radius:41.6465)
+	Colliding:
+		Square(x:223.344, y:24.6517, size:36.245)
+		Square(x:223.085, y:59.3977, size:21.0419)
+	Removing:
+		Square(x:223.085, y:59.3977, size:21.0419)
+
+	Shapes remaining:	27
+
+Round:	8
+
+	Shapes remaining:	27
+
+Round:	9
+	Colliding:
+		Circle(x:379.99, y:165.038, radius:8.97121)
+		Square(x:377.113, y:167.453, size:5.41022)
+	Removing:
+		Square(x:377.113, y:167.453, size:5.41022)
+
+	Shapes remaining:	26
+
+Round:	10
+
+	Shapes remaining:	26
+
+Round:	11
+
+	Shapes remaining:	26
+
+Round:	12
+
+	Shapes remaining:	26
+
+Round:	13
+	Colliding:
+		Circle(x:209.725, y:10.8172, radius:20.027)
+		Square(x:212.508, y:16.0967, size:0.686053)
+	Removing:
+		Square(x:212.508, y:16.0967, size:0.686053)
+
+	Shapes remaining:	25
+
+Round:	14
+
+	Shapes remaining:	25
+
+Round:	15
+
+	Shapes remaining:	25
+
+Round:	16
+	Colliding:
+		Circle(x:200.694, y:0.514513, radius:20.027)
+		Square(x:176.498, y:9.41529, size:6.94822)
+	Removing:
+		Square(x:176.498, y:9.41529, size:6.94822)
+	Colliding:
+		Square(x:223.121, y:177.722, size:4.343)
+		Circle(x:222.06, y:173.081, radius:4.85283)
+	Removing:
+		Circle(x:222.06, y:173.081, radius:4.85283)
+
+	Shapes remaining:	23
+
+Round:	17
+
+	Shapes remaining:	23
+
+Round:	18
+
+	Shapes remaining:	23
+
+Round:	19
+	Colliding:
+		Square(x:10.774, y:45.092, size:6.96863)
+		Circle(x:18.1717, y:47.0928, radius:6.43947)
+	Removing:
+		Circle(x:18.1717, y:47.0928, radius:6.43947)
+
+	Shapes remaining:	22
+
+Round:	20
+	Colliding:
+		Square(x:326.079, y:87.5256, size:18.0141)
+		Square(x:323.161, y:103.459, size:3.20864)
+	Removing:
+		Square(x:323.161, y:103.459, size:3.20864)
+
+	Shapes remaining:	21
+
+Round:	21
+	Colliding:
+		Square(x:62.1543, y:70.0005, size:8.53431)
+		Circle(x:68.9146, y:84.9754, radius:10.7194)
+	Removing:
+		Circle(x:68.9146, y:84.9754, radius:10.7194)
+
+	Shapes remaining:	20
+
+Round:	22
+	Colliding:
+		Square(x:41.6992, y:67.6803, size:8.74841)
+		Square(x:45.343, y:60.2649, size:8.53431)
+	Removing:
+		Square(x:45.343, y:60.2649, size:8.53431)
+
+	Shapes remaining:	19
+
+Round:	23
+
+	Shapes remaining:	19
+
+Round:	24
+
+	Shapes remaining:	19
+
+Round:	25
+
+	Shapes remaining:	19
+
+Round:	26
+
+	Shapes remaining:	19
+
+Round:	27
+
+	Shapes remaining:	19
+
+Round:	28
+	Colliding:
+		Circle(x:226.423, y:31.7833, radius:20.027)
+		Square(x:241.489, y:37.426, size:36.245)
+	Removing:
+		Square(x:241.489, y:37.426, size:36.245)
+	Colliding:
+		Square(x:335.714, y:135.586, size:18.0141)
+		Circle(x:335.139, y:140.612, radius:8.97121)
+	Removing:
+		Circle(x:335.139, y:140.612, radius:8.97121)
+
+	Shapes remaining:	17
+
+Round:	29
+
+	Shapes remaining:	17
+
+Round:	30
+
+	Shapes remaining:	17
+
+Round:	31
+
+	Shapes remaining:	17
+
+Round:	32
+
+	Shapes remaining:	17
+
+Round:	33
+
+	Shapes remaining:	17
+
+Round:	34
+	Colliding:
+		Square(x:66.7432, y:15.8907, size:19.3608)
+		Square(x:66.9422, y:27.6703, size:8.74841)
+	Removing:
+		Square(x:66.9422, y:27.6703, size:8.74841)
+
+	Shapes remaining:	16
+
+Round:	35
+
+	Shapes remaining:	16
+
+Round:	36
+
+	Shapes remaining:	16
+
+Round:	37
+
+	Shapes remaining:	16
+
+Round:	38
+
+	Shapes remaining:	16
+
+Round:	39
+
+	Shapes remaining:	16
+
+Round:	40
+
+	Shapes remaining:	16
+
+Round:	41
+
+	Shapes remaining:	16
+
+Round:	42
+
+	Shapes remaining:	16
+
+Round:	43
+
+	Shapes remaining:	16
+
+Round:	44
+
+	Shapes remaining:	16
+
+Round:	45
+
+	Shapes remaining:	16
+
+Round:	46
+
+	Shapes remaining:	16
+
+Round:	47
+
+	Shapes remaining:	16
+
+Round:	48
+	Colliding:
+		Square(x:71.1991, y:77.1316, size:19.3608)
+		Square(x:81.3864, y:87.1883, size:10.8032)
+	Removing:
+		Square(x:81.3864, y:87.1883, size:10.8032)
+
+	Shapes remaining:	15
+
+Round:	49
+
+	Shapes remaining:	15
+
+Round:	50
+
+	Shapes remaining:	15
+
+Round:	51
+
+	Shapes remaining:	15
+
+Round:	52
+	Colliding:
+		Square(x:310.621, y:98.5864, size:18.0141)
+		Square(x:318.927, y:104.9, size:2.37543)
+	Removing:
+		Square(x:318.927, y:104.9, size:2.37543)
+
+	Shapes remaining:	14
+
+Round:	53
+
+	Shapes remaining:	14
+
+Round:	54
+
+	Shapes remaining:	14
+
+Round:	55
+
+	Shapes remaining:	14
+
+Round:	56
+
+	Shapes remaining:	14
+
+Round:	57
+
+	Shapes remaining:	14
+
+Round:	58
+
+	Shapes remaining:	14
+
+Round:	59
+
+	Shapes remaining:	14
+
+Round:	60
+
+	Shapes remaining:	14
+
+Round:	61
+
+	Shapes remaining:	14
+
+Round:	62
+
+	Shapes remaining:	14
+
+Round:	63
+
+	Shapes remaining:	14
+
+Round:	64
+
+	Shapes remaining:	14
+
+Round:	65
+
+	Shapes remaining:	14
+
+Round:	66
+
+	Shapes remaining:	14
+
+Round:	67
+
+	Shapes remaining:	14
+
+Round:	68
+
+	Shapes remaining:	14
+
+Round:	69
+	Colliding:
+		Circle(x:288.074, y:67.1565, radius:20.027)
+		Circle(x:281.926, y:71.4818, radius:0.77451)
+	Removing:
+		Circle(x:281.926, y:71.4818, radius:0.77451)
+
+	Shapes remaining:	13
+
+Round:	70
+	Colliding:
+		Square(x:130.075, y:179.43, size:3.58571)
+		Square(x:132.573, y:181.346, size:2.34583)
+	Removing:
+		Square(x:132.573, y:181.346, size:2.34583)
+
+	Shapes remaining:	12
+
+Round:	71
+
+	Shapes remaining:	12
+
+Round:	72
+
+	Shapes remaining:	12
+
+Round:	73
+	Colliding:
+		Square(x:313.06, y:167.511, size:18.0141)
+		Square(x:319.463, y:165.433, size:4.343)
+	Removing:
+		Square(x:319.463, y:165.433, size:4.343)
+
+	Shapes remaining:	11
+
+Round:	74
+	Colliding:
+		Square(x:326.688, y:175.456, size:18.0141)
+		Square(x:341.29, y:175.178, size:10.2356)
+	Removing:
+		Square(x:341.29, y:175.178, size:10.2356)
+
+	Shapes remaining:	10
+
+Round:	75
+
+	Shapes remaining:	10
+
+Round:	76
+
+	Shapes remaining:	10
+
+Round:	77
+
+	Shapes remaining:	10
+
+Round:	78
+
+	Shapes remaining:	10
+
+Round:	79
+
+	Shapes remaining:	10
+
+Round:	80
+
+	Shapes remaining:	10
+
+Round:	81
+	Colliding:
+		Square(x:149.091, y:163.924, size:3.58571)
+		Square(x:130.002, y:155.42, size:19.3608)
+	Removing:
+		Square(x:130.002, y:155.42, size:19.3608)
+
+	Shapes remaining:	9
+
+Round:	82
+
+	Shapes remaining:	9
+
+Round:	83
+	Colliding:
+		Circle(x:239.903, y:109.597, radius:20.027)
+		Square(x:228.551, y:115.412, size:8.02817)
+	Removing:
+		Square(x:228.551, y:115.412, size:8.02817)
+
+	Shapes remaining:	8
+
+Round:	84
+
+	Shapes remaining:	8
+
+Round:	85
+
+	Shapes remaining:	8
+
+Round:	86
+
+	Shapes remaining:	8
+
+Round:	87
+
+	Shapes remaining:	8
+
+Round:	88
+
+	Shapes remaining:	8
+
+Round:	89
+
+	Shapes remaining:	8
+
+Round:	90
+
+	Shapes remaining:	8
+
+Round:	91
+
+	Shapes remaining:	8
+
+Round:	92
+
+	Shapes remaining:	8
+
+Round:	93
+
+	Shapes remaining:	8
+
+Round:	94
+
+	Shapes remaining:	8
+
+Round:	95
+
+	Shapes remaining:	8
+
+Round:	96
+
+	Shapes remaining:	8
+
+Round:	97
+
+	Shapes remaining:	8
+
+Round:	98
+
+	Shapes remaining:	8
+
+Round:	99
+
+	Shapes remaining:	8
+
+Round:	100
+
+	Shapes remaining:	8
+
+Round:	101
+
+	Shapes remaining:	8
+
+Round:	102
+
+	Shapes remaining:	8
+
+Round:	103
+
+	Shapes remaining:	8
+
+Round:	104
+	Colliding:
+		Circle(x:201.2, y:82.1638, radius:20.027)
+		Circle(x:190.648, y:92.5034, radius:1.83907)
+	Removing:
+		Circle(x:190.648, y:92.5034, radius:1.83907)
+
+	Shapes remaining:	7
+
+Round:	105
+
+	Shapes remaining:	7
+
+Round:	106
+	Colliding:
+		Square(x:109.604, y:101.093, size:6.96863)
+		Square(x:113.937, y:102.739, size:3.54639)
+	Removing:
+		Square(x:113.937, y:102.739, size:3.54639)
+
+	Shapes remaining:	6
+
+Round:	107
+
+	Shapes remaining:	6
+
+Round:	108
+
+	Shapes remaining:	6
+
+Round:	109
+
+	Shapes remaining:	6
+
+Round:	110
+
+	Shapes remaining:	6
+
+Round:	111
+
+	Shapes remaining:	6
+
+Round:	112
+
+	Shapes remaining:	6
+
+Round:	113
+
+	Shapes remaining:	6
+
+Round:	114
+
+	Shapes remaining:	6
+
+Round:	115
+
+	Shapes remaining:	6
+
+Round:	116
+
+	Shapes remaining:	6
+
+Round:	117
+
+	Shapes remaining:	6
+
+Round:	118
+
+	Shapes remaining:	6
+
+Round:	119
+
+	Shapes remaining:	6
+
+Round:	120
+
+	Shapes remaining:	6
+
+Round:	121
+
+	Shapes remaining:	6
+
+Round:	122
+
+	Shapes remaining:	6
+
+Round:	123
+
+	Shapes remaining:	6
+
+Round:	124
+
+	Shapes remaining:	6
+
+Round:	125
+
+	Shapes remaining:	6
+
+Round:	126
+
+	Shapes remaining:	6
+
+Round:	127
+
+	Shapes remaining:	6
+
+Round:	128
+
+	Shapes remaining:	6
+
+Round:	129
+
+	Shapes remaining:	6
+
+Round:	130
+
+	Shapes remaining:	6
+
+Round:	131
+
+	Shapes remaining:	6
+
+Round:	132
+
+	Shapes remaining:	6
+
+Round:	133
+
+	Shapes remaining:	6
+
+Round:	134
+
+	Shapes remaining:	6
+
+Round:	135
+
+	Shapes remaining:	6
+
+Round:	136
+
+	Shapes remaining:	6
+
+Round:	137
+
+	Shapes remaining:	6
+
+Round:	138
+
+	Shapes remaining:	6
+
+Round:	139
+
+	Shapes remaining:	6
+
+Round:	140
+
+	Shapes remaining:	6
+
+Round:	141
+
+	Shapes remaining:	6
+
+Round:	142
+
+	Shapes remaining:	6
+
+Round:	143
+
+	Shapes remaining:	6
+
+Round:	144
+
+	Shapes remaining:	6
+
+Round:	145
+	Colliding:
+		Square(x:89.5715, y:192.156, size:8.52647)
+		Square(x:83.8731, y:194.895, size:6.96863)
+	Removing:
+		Square(x:83.8731, y:194.895, size:6.96863)
+
+	Shapes remaining:	5
+
+Round:	146
+
+	Shapes remaining:	5
+
+Round:	147
+
+	Shapes remaining:	5
+
+Round:	148
+
+	Shapes remaining:	5
+
+Round:	149
+
+	Shapes remaining:	5
+
+Round:	150
+
+	Shapes remaining:	5
+
+Round:	151
+
+	Shapes remaining:	5
+
+Round:	152
+
+	Shapes remaining:	5
+
+Round:	153
+
+	Shapes remaining:	5
+
+Round:	154
+
+	Shapes remaining:	5
+
+Round:	155
+
+	Shapes remaining:	5
+
+Round:	156
+
+	Shapes remaining:	5
+
+Round:	157
+
+	Shapes remaining:	5
+
+Round:	158
+
+	Shapes remaining:	5
+
+Round:	159
+
+	Shapes remaining:	5
+
+Round:	160
+
+	Shapes remaining:	5
+
+Round:	161
+
+	Shapes remaining:	5
+
+Round:	162
+
+	Shapes remaining:	5
+
+Round:	163
+
+	Shapes remaining:	5
+
+Round:	164
+
+	Shapes remaining:	5
+
+Round:	165
+
+	Shapes remaining:	5
+
+Round:	166
+
+	Shapes remaining:	5
+
+Round:	167
+
+	Shapes remaining:	5
+
+Round:	168
+
+	Shapes remaining:	5
+
+Round:	169
+
+	Shapes remaining:	5
+
+Round:	170
+
+	Shapes remaining:	5
+
+Round:	171
+
+	Shapes remaining:	5
+
+Round:	172
+
+	Shapes remaining:	5
+
+Round:	173
+
+	Shapes remaining:	5
+
+Round:	174
+
+	Shapes remaining:	5
+
+Round:	175
+
+	Shapes remaining:	5
+
+Round:	176
+
+	Shapes remaining:	5
+
+Round:	177
+
+	Shapes remaining:	5
+
+Round:	178
+
+	Shapes remaining:	5
+
+Round:	179
+
+	Shapes remaining:	5
+
+Round:	180
+
+	Shapes remaining:	5
+
+Round:	181
+
+	Shapes remaining:	5
+
+Round:	182
+
+	Shapes remaining:	5
+
+Round:	183
+
+	Shapes remaining:	5
+
+Round:	184
+
+	Shapes remaining:	5
+
+Round:	185
+
+	Shapes remaining:	5
+
+Round:	186
+
+	Shapes remaining:	5
+
+Round:	187
+
+	Shapes remaining:	5
+
+Round:	188
+
+	Shapes remaining:	5
+
+Round:	189
+
+	Shapes remaining:	5
+
+Round:	190
+
+	Shapes remaining:	5
+
+Round:	191
+
+	Shapes remaining:	5
+
+Round:	192
+
+	Shapes remaining:	5
+
+Round:	193
+	Colliding:
+		Circle(x:114.263, y:92.997, radius:20.027)
+		Square(x:101.346, y:104.471, size:8.52647)
+	Removing:
+		Square(x:101.346, y:104.471, size:8.52647)
+
+	Shapes remaining:	4
+
+Round:	194
+
+	Shapes remaining:	4
+
+Round:	195
+
+	Shapes remaining:	4
+
+Round:	196
+
+	Shapes remaining:	4
+
+Round:	197
+
+	Shapes remaining:	4
+
+Round:	198
+
+	Shapes remaining:	4
+
+Round:	199
+
+	Shapes remaining:	4
+
+Round:	200
+
+	Shapes remaining:	4
+
+Round:	201
+
+	Shapes remaining:	4
+
+Round:	202
+
+	Shapes remaining:	4
+
+Round:	203
+
+	Shapes remaining:	4
+
+Round:	204
+
+	Shapes remaining:	4
+
+Round:	205
+
+	Shapes remaining:	4
+
+Round:	206
+
+	Shapes remaining:	4
+
+Round:	207
+
+	Shapes remaining:	4
+
+Round:	208
+
+	Shapes remaining:	4
+
+Round:	209
+
+	Shapes remaining:	4
+
+Round:	210
+
+	Shapes remaining:	4
+
+Round:	211
+
+	Shapes remaining:	4
+
+Round:	212
+
+	Shapes remaining:	4
+
+Round:	213
+
+	Shapes remaining:	4
+
+Round:	214
+
+	Shapes remaining:	4
+
+Round:	215
+
+	Shapes remaining:	4
+
+Round:	216
+
+	Shapes remaining:	4
+
+Round:	217
+
+	Shapes remaining:	4
+
+Round:	218
+
+	Shapes remaining:	4
+
+Round:	219
+
+	Shapes remaining:	4
+
+Round:	220
+
+	Shapes remaining:	4
+
+Round:	221
+
+	Shapes remaining:	4
+
+Round:	222
+
+	Shapes remaining:	4
+
+Round:	223
+
+	Shapes remaining:	4
+
+Round:	224
+
+	Shapes remaining:	4
+
+Round:	225
+
+	Shapes remaining:	4
+
+Round:	226
+
+	Shapes remaining:	4
+
+Round:	227
+
+	Shapes remaining:	4
+
+Round:	228
+
+	Shapes remaining:	4
+
+Round:	229
+
+	Shapes remaining:	4
+
+Round:	230
+
+	Shapes remaining:	4
+
+Round:	231
+
+	Shapes remaining:	4
+
+Round:	232
+	Colliding:
+		Square(x:383.758, y:31.8948, size:18.0141)
+		Square(x:401.602, y:44.8074, size:0.372147)
+	Removing:
+		Square(x:401.602, y:44.8074, size:0.372147)
+
+	Shapes remaining:	3
+
+Round:	233
+
+	Shapes remaining:	3
+
+Round:	234
+
+	Shapes remaining:	3
+
+Round:	235
+
+	Shapes remaining:	3
+
+Round:	236
+
+	Shapes remaining:	3
+
+Round:	237
+
+	Shapes remaining:	3
+
+Round:	238
+
+	Shapes remaining:	3
+
+Round:	239
+
+	Shapes remaining:	3
+
+Round:	240
+
+	Shapes remaining:	3
+
+Round:	241
+
+	Shapes remaining:	3
+
+Round:	242
+
+	Shapes remaining:	3
+
+Round:	243
+
+	Shapes remaining:	3
+
+Round:	244
+
+	Shapes remaining:	3
+
+Round:	245
+
+	Shapes remaining:	3
+
+Round:	246
+
+	Shapes remaining:	3
+
+Round:	247
+
+	Shapes remaining:	3
+
+Round:	248
+
+	Shapes remaining:	3
+
+Round:	249
+
+	Shapes remaining:	3
+
+Round:	250
+
+	Shapes remaining:	3
+
+Round:	251
+
+	Shapes remaining:	3
+
+Round:	252
+
+	Shapes remaining:	3
+
+Round:	253
+
+	Shapes remaining:	3
+
+Round:	254
+
+	Shapes remaining:	3
+
+Round:	255
+
+	Shapes remaining:	3
+
+Round:	256
+
+	Shapes remaining:	3
+
+Round:	257
+
+	Shapes remaining:	3
+
+Round:	258
+
+	Shapes remaining:	3
+
+Round:	259
+
+	Shapes remaining:	3
+
+Round:	260
+
+	Shapes remaining:	3
+
+Round:	261
+
+	Shapes remaining:	3
+
+Round:	262
+
+	Shapes remaining:	3
+
+Round:	263
+
+	Shapes remaining:	3
+
+Round:	264
+
+	Shapes remaining:	3
+
+Round:	265
+
+	Shapes remaining:	3
+
+Round:	266
+
+	Shapes remaining:	3
+
+Round:	267
+
+	Shapes remaining:	3
+
+Round:	268
+
+	Shapes remaining:	3
+
+Round:	269
+
+	Shapes remaining:	3
+
+Round:	270
+
+	Shapes remaining:	3
+
+Round:	271
+
+	Shapes remaining:	3
+
+Round:	272
+
+	Shapes remaining:	3
+
+Round:	273
+
+	Shapes remaining:	3
+
+Round:	274
+
+	Shapes remaining:	3
+
+Round:	275
+
+	Shapes remaining:	3
+
+Round:	276
+
+	Shapes remaining:	3
+
+Round:	277
+
+	Shapes remaining:	3
+
+Round:	278
+
+	Shapes remaining:	3
+
+Round:	279
+
+	Shapes remaining:	3
+
+Round:	280
+
+	Shapes remaining:	3
+
+Round:	281
+
+	Shapes remaining:	3
+
+Round:	282
+
+	Shapes remaining:	3
+
+Round:	283
+
+	Shapes remaining:	3
+
+Round:	284
+
+	Shapes remaining:	3
+
+Round:	285
+
+	Shapes remaining:	3
+
+Round:	286
+
+	Shapes remaining:	3
+
+Round:	287
+
+	Shapes remaining:	3
+
+Round:	288
+
+	Shapes remaining:	3
+
+Round:	289
+
+	Shapes remaining:	3
+
+Round:	290
+
+	Shapes remaining:	3
+
+Round:	291
+
+	Shapes remaining:	3
+
+Round:	292
+
+	Shapes remaining:	3
+
+Round:	293
+
+	Shapes remaining:	3
+
+Round:	294
+
+	Shapes remaining:	3
+
+Round:	295
+
+	Shapes remaining:	3
+
+Round:	296
+
+	Shapes remaining:	3
+
+Round:	297
+
+	Shapes remaining:	3
+
+Round:	298
+
+	Shapes remaining:	3
+
+Round:	299
+
+	Shapes remaining:	3
+
+Round:	300
+
+	Shapes remaining:	3
+
+Round:	301
+
+	Shapes remaining:	3
+
+Round:	302
+
+	Shapes remaining:	3
+
+Round:	303
+
+	Shapes remaining:	3
+
+Round:	304
+
+	Shapes remaining:	3
+
+Round:	305
+
+	Shapes remaining:	3
+
+Round:	306
+
+	Shapes remaining:	3
+
+Round:	307
+
+	Shapes remaining:	3
+
+Round:	308
+
+	Shapes remaining:	3
+
+Round:	309
+
+	Shapes remaining:	3
+
+Round:	310
+	Colliding:
+		Square(x:131.258, y:71.5908, size:3.58571)
+		Circle(x:139.63, y:71.4016, radius:20.027)
+	Removing:
+		Circle(x:139.63, y:71.4016, radius:20.027)
+
+	Shapes remaining:	2
+
+Round:	311
+
+	Shapes remaining:	2
+
+Round:	312
+
+	Shapes remaining:	2
+
+Round:	313
+
+	Shapes remaining:	2
+
+Round:	314
+
+	Shapes remaining:	2
+
+Round:	315
+
+	Shapes remaining:	2
+
+Round:	316
+
+	Shapes remaining:	2
+
+Round:	317
+
+	Shapes remaining:	2
+
+Round:	318
+
+	Shapes remaining:	2
+
+Round:	319
+
+	Shapes remaining:	2
+
+Round:	320
+
+	Shapes remaining:	2
+
+Round:	321
+
+	Shapes remaining:	2
+
+Round:	322
+
+	Shapes remaining:	2
+
+Round:	323
+
+	Shapes remaining:	2
+
+Round:	324
+
+	Shapes remaining:	2
+
+Round:	325
+
+	Shapes remaining:	2
+
+Round:	326
+
+	Shapes remaining:	2
+
+Round:	327
+
+	Shapes remaining:	2
+
+Round:	328
+
+	Shapes remaining:	2
+
+Round:	329
+
+	Shapes remaining:	2
+
+Round:	330
+
+	Shapes remaining:	2
+
+Round:	331
+
+	Shapes remaining:	2
+
+Round:	332
+
+	Shapes remaining:	2
+
+Round:	333
+
+	Shapes remaining:	2
+
+Round:	334
+
+	Shapes remaining:	2
+
+Round:	335
+
+	Shapes remaining:	2
+
+Round:	336
+
+	Shapes remaining:	2
+
+Round:	337
+
+	Shapes remaining:	2
+
+Round:	338
+
+	Shapes remaining:	2
+
+Round:	339
+
+	Shapes remaining:	2
+
+Round:	340
+
+	Shapes remaining:	2
+
+Round:	341
+
+	Shapes remaining:	2
+
+Round:	342
+
+	Shapes remaining:	2
+
+Round:	343
+
+	Shapes remaining:	2
+
+Round:	344
+
+	Shapes remaining:	2
+
+Round:	345
+
+	Shapes remaining:	2
+
+Round:	346
+
+	Shapes remaining:	2
+
+Round:	347
+
+	Shapes remaining:	2
+
+Round:	348
+
+	Shapes remaining:	2
+
+Round:	349
+
+	Shapes remaining:	2
+
+Round:	350
+
+	Shapes remaining:	2
+
+Round:	351
+
+	Shapes remaining:	2
+
+Round:	352
+
+	Shapes remaining:	2
+
+Round:	353
+
+	Shapes remaining:	2
+
+Round:	354
+
+	Shapes remaining:	2
+
+Round:	355
+
+	Shapes remaining:	2
+
+Round:	356
+
+	Shapes remaining:	2
+
+Round:	357
+
+	Shapes remaining:	2
+
+Round:	358
+
+	Shapes remaining:	2
+
+Round:	359
+
+	Shapes remaining:	2
+
+Round:	360
+
+	Shapes remaining:	2
+
+Round:	361
+
+	Shapes remaining:	2
+
+Round:	362
+
+	Shapes remaining:	2
+
+Round:	363
+
+	Shapes remaining:	2
+
+Round:	364
+
+	Shapes remaining:	2
+
+Round:	365
+
+	Shapes remaining:	2
+
+Round:	366
+
+	Shapes remaining:	2
+
+Round:	367
+
+	Shapes remaining:	2
+
+Round:	368
+
+	Shapes remaining:	2
+
+Round:	369
+
+	Shapes remaining:	2
+
+Round:	370
+
+	Shapes remaining:	2
+
+Round:	371
+
+	Shapes remaining:	2
+
+Round:	372
+
+	Shapes remaining:	2
+
+Round:	373
+
+	Shapes remaining:	2
+
+Round:	374
+
+	Shapes remaining:	2
+
+Round:	375
+
+	Shapes remaining:	2
+
+Round:	376
+
+	Shapes remaining:	2
+
+Round:	377
+
+	Shapes remaining:	2
+
+Round:	378
+
+	Shapes remaining:	2
+
+Round:	379
+
+	Shapes remaining:	2
+
+Round:	380
+
+	Shapes remaining:	2
+
+Round:	381
+
+	Shapes remaining:	2
+
+Round:	382
+
+	Shapes remaining:	2
+
+Round:	383
+
+	Shapes remaining:	2
+
+Round:	384
+
+	Shapes remaining:	2
+
+Round:	385
+
+	Shapes remaining:	2
+
+Round:	386
+
+	Shapes remaining:	2
+
+Round:	387
+
+	Shapes remaining:	2
+
+Round:	388
+
+	Shapes remaining:	2
+
+Round:	389
+
+	Shapes remaining:	2
+
+Round:	390
+
+	Shapes remaining:	2
+
+Round:	391
+
+	Shapes remaining:	2
+
+Round:	392
+
+	Shapes remaining:	2
+
+Round:	393
+
+	Shapes remaining:	2
+
+Round:	394
+
+	Shapes remaining:	2
+
+Round:	395
+
+	Shapes remaining:	2
+
+Round:	396
+
+	Shapes remaining:	2
+
+Round:	397
+
+	Shapes remaining:	2
+
+Round:	398
+
+	Shapes remaining:	2
+
+Round:	399
+
+	Shapes remaining:	2
+
+Round:	400
+
+	Shapes remaining:	2
+
+Round:	401
+
+	Shapes remaining:	2
+
+Round:	402
+
+	Shapes remaining:	2
+
+Round:	403
+
+	Shapes remaining:	2
+
+Round:	404
+
+	Shapes remaining:	2
+
+Round:	405
+
+	Shapes remaining:	2
+
+Round:	406
+
+	Shapes remaining:	2
+
+Round:	407
+
+	Shapes remaining:	2
+
+Round:	408
+
+	Shapes remaining:	2
+
+Round:	409
+
+	Shapes remaining:	2
+
+Round:	410
+
+	Shapes remaining:	2
+
+Round:	411
+
+	Shapes remaining:	2
+
+Round:	412
+
+	Shapes remaining:	2
+
+Round:	413
+
+	Shapes remaining:	2
+
+Round:	414
+
+	Shapes remaining:	2
+
+Round:	415
+
+	Shapes remaining:	2
+
+Round:	416
+
+	Shapes remaining:	2
+
+Round:	417
+
+	Shapes remaining:	2
+
+Round:	418
+
+	Shapes remaining:	2
+
+Round:	419
+
+	Shapes remaining:	2
+
+Round:	420
+
+	Shapes remaining:	2
+
+Round:	421
+
+	Shapes remaining:	2
+
+Round:	422
+
+	Shapes remaining:	2
+
+Round:	423
+
+	Shapes remaining:	2
+
+Round:	424
+
+	Shapes remaining:	2
+
+Round:	425
+
+	Shapes remaining:	2
+
+Round:	426
+
+	Shapes remaining:	2
+
+Round:	427
+
+	Shapes remaining:	2
+
+Round:	428
+
+	Shapes remaining:	2
+
+Round:	429
+
+	Shapes remaining:	2
+
+Round:	430
+
+	Shapes remaining:	2
+
+Round:	431
+
+	Shapes remaining:	2
+
+Round:	432
+
+	Shapes remaining:	2
+
+Round:	433
+
+	Shapes remaining:	2
+
+Round:	434
+
+	Shapes remaining:	2
+
+Round:	435
+
+	Shapes remaining:	2
+
+Round:	436
+
+	Shapes remaining:	2
+
+Round:	437
+
+	Shapes remaining:	2
+
+Round:	438
+
+	Shapes remaining:	2
+
+Round:	439
+
+	Shapes remaining:	2
+
+Round:	440
+
+	Shapes remaining:	2
+
+Round:	441
+
+	Shapes remaining:	2
+
+Round:	442
+
+	Shapes remaining:	2
+
+Round:	443
+
+	Shapes remaining:	2
+
+Round:	444
+
+	Shapes remaining:	2
+
+Round:	445
+
+	Shapes remaining:	2
+
+Round:	446
+
+	Shapes remaining:	2
+
+Round:	447
+
+	Shapes remaining:	2
+
+Round:	448
+
+	Shapes remaining:	2
+
+Round:	449
+
+	Shapes remaining:	2
+
+Round:	450
+
+	Shapes remaining:	2
+
+Round:	451
+
+	Shapes remaining:	2
+
+Round:	452
+
+	Shapes remaining:	2
+
+Round:	453
+
+	Shapes remaining:	2
+
+Round:	454
+
+	Shapes remaining:	2
+
+Round:	455
+
+	Shapes remaining:	2
+
+Round:	456
+
+	Shapes remaining:	2
+
+Round:	457
+
+	Shapes remaining:	2
+
+Round:	458
+
+	Shapes remaining:	2
+
+Round:	459
+
+	Shapes remaining:	2
+
+Round:	460
+
+	Shapes remaining:	2
+
+Round:	461
+
+	Shapes remaining:	2
+
+Round:	462
+
+	Shapes remaining:	2
+
+Round:	463
+
+	Shapes remaining:	2
+
+Round:	464
+
+	Shapes remaining:	2
+
+Round:	465
+
+	Shapes remaining:	2
+
+Round:	466
+
+	Shapes remaining:	2
+
+Round:	467
+
+	Shapes remaining:	2
+
+Round:	468
+
+	Shapes remaining:	2
+
+Round:	469
+
+	Shapes remaining:	2
+
+Round:	470
+
+	Shapes remaining:	2
+
+Round:	471
+
+	Shapes remaining:	2
+
+Round:	472
+
+	Shapes remaining:	2
+
+Round:	473
+
+	Shapes remaining:	2
+
+Round:	474
+
+	Shapes remaining:	2
+
+Round:	475
+
+	Shapes remaining:	2
+
+Round:	476
+
+	Shapes remaining:	2
+
+Round:	477
+
+	Shapes remaining:	2
+
+Round:	478
+
+	Shapes remaining:	2
+
+Round:	479
+
+	Shapes remaining:	2
+
+Round:	480
+
+	Shapes remaining:	2
+
+Round:	481
+
+	Shapes remaining:	2
+
+Round:	482
+
+	Shapes remaining:	2
+
+Round:	483
+
+	Shapes remaining:	2
+
+Round:	484
+
+	Shapes remaining:	2
+
+Round:	485
+
+	Shapes remaining:	2
+
+Round:	486
+
+	Shapes remaining:	2
+
+Round:	487
+
+	Shapes remaining:	2
+
+Round:	488
+
+	Shapes remaining:	2
+
+Round:	489
+
+	Shapes remaining:	2
+
+Round:	490
+	Colliding:
+		Square(x:112.031, y:64.6858, size:3.58571)
+		Square(x:100.565, y:60.3814, size:18.0141)
+	Removing:
+		Square(x:100.565, y:60.3814, size:18.0141)
+
+	Shapes remaining:	1
+
+
+/*---------------------GAME ENDED---------------------*/
+
+Final shape:
+	Square(x:112.031, y:64.6858, size:3.58571)
+
+/*----------------------------------------------------*/
+
+
+Process finished with exit code 0
